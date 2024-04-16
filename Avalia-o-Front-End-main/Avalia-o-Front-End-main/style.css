@@ -1,0 +1,50 @@
+*{
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+
+}
+
+.Titulo {
+background-color: #1B3D2F;
+padding: 100px;
+text-align: center;
+font-size: 30px;
+color: #F2FEDC;
+display: flexbox;
+}
+
+.Pedidos {
+font-size: 60px;
+padding-top: 20px;
+border-radius: 10px;
+margin: 30px;
+background-color:  #e7ecb3;
+padding: 60px;
+}
+.Pedidos ul {
+padding-top: 10px;
+font-size: 50px;
+
+}
+body {
+background-color: #F2FEDC ;
+
+}
+
+section {
+    display: flex;
+}
+.foto {
+display: flex;
+margin-left: 750px;
+
+}
+
+.fundo {
+    padding: 15px;
+    background-color: #224939;
+    font-size: 40px ;
+    text-align: initial;
+    color: #e7ecb3;
+}

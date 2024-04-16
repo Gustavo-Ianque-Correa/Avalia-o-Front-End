@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+main {
+display: grid;
+grid-column: 2;
+font-size: 30px;
+margin-top: 10px;
+}
+
+header {
+padding: 5%;
+background-color: #224939;
+text-align: center;
+color: #F2FEDC;
+}
+
+input {
+    margin: 10px;
+}
+
+.Pedidos {
+
+}
+
+.fundo {
+    padding: 15px;
+    background-color: #224939;
+    font-size: 40px ;
+    text-align: initial;
+    color: #e7ecb3;
+    display: flex;
+    padding-top: 20px;
+
+}
+footer {
+    padding-top: 150px;
+
+}
+
